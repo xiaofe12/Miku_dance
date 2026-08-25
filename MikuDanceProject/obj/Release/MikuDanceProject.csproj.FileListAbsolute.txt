@@ -1,0 +1,27 @@
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\bin\Release\com.github.Thanks.MikuShowcase.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\bin\Release\com.github.Thanks.MikuShowcase.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.csproj.AssemblyReference.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.csproj.CoreCompileInputs.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\com.github.Thanks.MikuShowcase.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\com.github.Thanks.MikuShowcase.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.sourcelink.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.tools.PackagerApp.MainForm.resources
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.csproj.GenerateResource.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\MikuDanceProject.csproj.AssemblyReference.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\MikuDanceProject.tools.PackagerApp.MainForm.resources
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\MikuDanceProject.csproj.GenerateResource.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\MikuDanceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\MikuDanceProject.csproj.CoreCompileInputs.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\com.github.Thanks.MikuShowcase.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\950669e75f57e1e2\obj\Release\com.github.Thanks.MikuShowcase.pdb
+D:\Mod Projects\Miku_dance\MikuDanceProject\bin\Release\com.github.Thanks.MikuShowcase.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\bin\Release\com.github.Thanks.MikuShowcase.pdb
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.csproj.AssemblyReference.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.tools.PackagerApp.MainForm.resources
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.csproj.GenerateResource.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.csproj.CoreCompileInputs.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\MikuDanceProject.sourcelink.json
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\com.github.Thanks.MikuShowcase.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Release\com.github.Thanks.MikuShowcase.pdb

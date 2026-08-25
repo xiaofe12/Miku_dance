@@ -1,0 +1,15 @@
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuShowcasePackager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuShowcasePackager.AssemblyInfoInputs.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuShowcasePackager.AssemblyInfo.cs
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuShowcasePackager.csproj.CoreCompileInputs.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuShowcasePackager.sourcelink.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuShowcasePackager.genruntimeconfig.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Release\net8.0-windows\win-x64\MikuDancePackager.exe
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Release\net8.0-windows\win-x64\MikuDancePackager.deps.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Release\net8.0-windows\win-x64\MikuDancePackager.runtimeconfig.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Release\net8.0-windows\win-x64\MikuDancePackager.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Release\net8.0-windows\win-x64\MikuDancePackager.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuDancePackager.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\refint\MikuDancePackager.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\MikuDancePackager.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Release\net8.0-windows\win-x64\ref\MikuDancePackager.dll

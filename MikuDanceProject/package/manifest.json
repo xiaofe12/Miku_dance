@@ -1,0 +1,8 @@
+{
+  "namespace": "Thanks",
+  "name": "MikuShowcase",
+  "description": "Adds one bundle-based Miku showcase to PEAK with Airport lobby display, hotkey placement, and optional synced music.",
+  "version_number": "1.0.2",
+  "dependencies": ["BepInEx-BepInExPack_PEAK-5.4.75301"],
+  "website_url": ""
+}

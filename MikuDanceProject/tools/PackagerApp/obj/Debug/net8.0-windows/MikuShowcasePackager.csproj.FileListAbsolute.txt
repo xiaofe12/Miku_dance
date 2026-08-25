@@ -1,0 +1,34 @@
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.exe
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.deps.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.runtimeconfig.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuDancePackager.MainForm.resources
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.csproj.GenerateResource.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.AssemblyInfoInputs.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.AssemblyInfo.cs
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.csproj.CoreCompileInputs.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.sourcelink.json
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuDancePackager.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\refint\MikuDancePackager.dll
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuDancePackager.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.genruntimeconfig.cache
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\ref\MikuDancePackager.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.exe
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.deps.json
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.runtimeconfig.json
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\bin\Debug\net8.0-windows\MikuDancePackager.pdb
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuDancePackager.MainForm.resources
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.csproj.GenerateResource.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.AssemblyInfoInputs.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.AssemblyInfo.cs
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.csproj.CoreCompileInputs.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.sourcelink.json
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuDancePackager.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\refint\MikuDancePackager.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuDancePackager.pdb
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\MikuShowcasePackager.genruntimeconfig.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\tools\PackagerApp\obj\Debug\net8.0-windows\ref\MikuDancePackager.dll

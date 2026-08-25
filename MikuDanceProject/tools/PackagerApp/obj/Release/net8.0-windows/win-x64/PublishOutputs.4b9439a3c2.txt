@@ -1,0 +1,2 @@
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\publish\win-x64\MikuDancePackager.pdb
+C:\Users\17994\Desktop\Miku_dance\MikuDanceProject\tools\PackagerApp\publish\win-x64\MikuDancePackager.exe

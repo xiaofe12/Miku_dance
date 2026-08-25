@@ -1,0 +1,10 @@
+D:\Mod Projects\Miku_dance\MikuDanceProject\bin\Debug\com.github.Thanks.MikuShowcase.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\bin\Debug\com.github.Thanks.MikuShowcase.pdb
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\MikuDanceProject.csproj.AssemblyReference.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\MikuDanceProject.tools.PackagerApp.MainForm.resources
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\MikuDanceProject.csproj.GenerateResource.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\MikuDanceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\MikuDanceProject.csproj.CoreCompileInputs.cache
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\MikuDanceProject.sourcelink.json
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\com.github.Thanks.MikuShowcase.dll
+D:\Mod Projects\Miku_dance\MikuDanceProject\obj\Debug\com.github.Thanks.MikuShowcase.pdb
